@@ -1,2 +1,6 @@
 # Exploratory-Data-Analysis
-Matlab course 
+ 
+Coursera Matlab 
+
+1st course from Specialization 
+Practical Data Science with MATLAB
