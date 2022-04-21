@@ -3,4 +3,4 @@
 Coursera Matlab 
 
 1st course from Specialization 
-Practical Data Science with MATLAB
+"Practical Data Science with MATLAB"
